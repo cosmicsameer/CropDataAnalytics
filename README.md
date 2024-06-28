@@ -23,3 +23,6 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 
+<img width="1440" alt="Screenshot 2024-06-28 at 7 32 27 PM" src="https://github.com/cosmicsameer/CropDataAnalytics/assets/79378011/47c13145-ef46-4634-9e39-8fbc5593cf8f">
+
+
